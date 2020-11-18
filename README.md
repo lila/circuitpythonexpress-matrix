@@ -14,6 +14,8 @@ I used an [Ender 3D printer](https://www.creality3dofficial.com/products/officia
 
 2. Connect your board to the 8x8 matrix. 
 
+![Connections](sketch.png)
+
 I'm not a very good solderer, and I'm an even worse solder-remover.  so do this right the first time, and use some connectors too.  I used a wire -> JST PH connector for the board, and for the matrix.  JSTs are your friend.  Just remember JST PH != JST SH when you order them.  And the last thing you want to do is try to crimp headers for custom JST connectors.  Crimping headers is not fun, even with a cool crimp tool. 
 
 See: https://www.youtube.com/watch?v=FMXdXCYvLQQ
