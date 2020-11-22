@@ -26,7 +26,13 @@ Now, that is assuming you have circuit python already flashed on the board.  I h
 
 After you copy the files on the board, that's it, you should see the led's light up in an annimation.  If not, check the pins in the `code.py` file to see if it matches your circuit.  
 
+Here's what it looks like at the end:
 
+![example](https://photos.app.goo.gl/ojo45ohMVhHhsXYK6)
+
+![example2](https://photos.app.goo.gl/hGMzXyvT6bAVipRY7)
+
+Note:  the example in `code.py` uses a modified version of the [Adafruit_Led_Animation library](https://github.com/Summit-Coding-Club/Adafruit_CircuitPython_LED_Animation) that supports the masking parameter.  I've submitted a PR for that, but till then, you have to build it yourself or take out the mask parameters.
 
 # Links
 
