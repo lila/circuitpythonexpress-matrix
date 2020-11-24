@@ -28,9 +28,7 @@ After you copy the files on the board, that's it, you should see the led's light
 
 Here's what it looks like at the end:
 
-![example](https://lh3.googleusercontent.com/wjTJimtd1a83Jfs6z35OymRCwcXlMfrS9ML1rP4HIKOzsUxQ17-Jye1WTTQd735VcFdkiGru2yE4NiMXhVrCENWLYDCafMHxh97hvR_lI8bhY0OFUIehBHjYRB56XU3H9RF7rNewtRs=m18)
-
-![example2](https://lh3.googleusercontent.com/z4oc5sCyulQfsCkTn63p-3Q057Kk51ytrWeiQcIxfJVnIXCJAwMZ476QU1EbRqkhzdX_ORQwLnJp6LIg-bU8aMUhDxzh1FFq45lrXCd-AKT9hXUm07CvxEvUiKqDHRPEsRGktCDEmCo=m18)
+![example](heart.gif?raw=true)
 
 Note:  the example in `code.py` uses a modified version of the [Adafruit_Led_Animation library](https://github.com/Summit-Coding-Club/Adafruit_CircuitPython_LED_Animation) that supports the masking parameter.  I've submitted a PR for that, but till then, you have to build it yourself or take out the mask parameters.
 
